@@ -1,2 +1,15 @@
 # Analysis-of-fitness-data
-Data Science project that aims at analysing fitness data from runkeeper app that tracks data of the user regarding their fitness activities. Throughout the notebook I have analysed my summary, my average progress throughout the years, as well as my training intensity.  Dataset is a csv file.  Python libraries used: pandas, matplotlib, warnings, statsmodel, numpy, scikit-learn
+
+With the explosion in fitness tracker popularity, runners all of the world are collecting data withgadgets (smartphones, watches, etc.) to keep themselves motivated. They look for answers toquestions like:
+
+•How fast, long, and intense was my run today?
+
+•Have I succeeded with my training goals?
+
+•Am I progressing?
+
+•What were my best achievements?•How do I perform compared to others?
+
+This data was exported from Runkeeper. The data is a CSV file where each row is a single trainingactivity.
+
+Python libraries used: pandas, matplotlib, statsmodel, numpy, scikit-learn
